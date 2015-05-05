@@ -10,4 +10,5 @@ WikiHouse is an open source building system. Many designers, collaborating to ma
 to design, print and assemble beautiful, low-energy homes, customised to your needs.
 
 [Experiments]( http://WikiHouse-Foundation.github.io/index.html#./experiments/readme.md# )  
+[Experiments]( index.html#./experiments/readme.md# )  
 A repository with experiments at transforming WikiHouse DXF files into 3D models that you may view in your browser.  
